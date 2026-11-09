@@ -1,0 +1,11 @@
+StudyCore App Pessoal — versão instalável (PWA)
+
+Arquivos originais do StudyCore 6.0 preservados, com nova identidade azul-céu e painel de lembretes.
+
+INSTALAÇÃO: publique todo o conteúdo desta pasta no Cloudflare Pages (ou servidor HTTPS). No Android, abra no Chrome > menu > Adicionar à tela inicial / Instalar app. No iPhone, Safari > Compartilhar > Adicionar à Tela de Início.
+
+AVISO: lembretes locais no navegador funcionam enquanto o app estiver aberto. Para notificações confiáveis com app fechado, é necessário desenvolver um aplicativo nativo ou configurar push com servidor.
+
+Dados permanecem no armazenamento local do navegador; não há sincronização com seu site. Limpar os dados do navegador pode apagar seu progresso. Faça backups regularmente.
+
+A biblioteca PDF.js original é carregada de CDN e pode precisar de conexão na primeira utilização.
